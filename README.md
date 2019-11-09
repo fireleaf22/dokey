@@ -47,7 +47,7 @@ Second image:
 
 Third image:
 -
-[+ ---
++ ---
 + author: fireleaf22
 + title: Powerglove
 + image_url: Powerglove.jpg
@@ -59,7 +59,7 @@ Third image:
 + tags:
 +   - Nintendo.inc
 + ---
-]
+
 Forth image:
 -
 + ---
