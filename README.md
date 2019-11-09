@@ -50,7 +50,7 @@ Third image:
 + ---
 + author: fireleaf22
 + title: Powerglove.png
-+ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ image_url: images/NES-Power-Glove-thumb.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 + license_text: Public domain
