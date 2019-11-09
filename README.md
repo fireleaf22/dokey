@@ -19,8 +19,8 @@ first image:
 -
 + ---
 + author: fireleaf22
-+ title: poke-walker.png
-+ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ title: poke-walker
++ image_url: poke-walker.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 + license_text: Public domain
@@ -34,8 +34,8 @@ Second image:
 -
 + ---
 + author: fireleaf22
-+ title: Nintendo64.png
-+ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ title: Nintendo64
++ image_url: Nintendo64.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Nintendo-64-GB-Transfer-Pak.jpg'
 + license_text: Public domain
@@ -47,10 +47,10 @@ Second image:
 
 Third image:
 -
-+ ---
+[+ ---
 + author: fireleaf22
-+ title: Powerglove.png
-+ image_url: https://github.com/fireleaf22/gr/blob/2018079/images/NES-Power-Glove-thumb.jpg
++ title: Powerglove
++ image_url: Powerglove.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 + license_text: Public domain
@@ -59,27 +59,27 @@ Third image:
 + tags:
 +   - Nintendo.inc
 + ---
-
+]
 Forth image:
 -
 + ---
 + author: fireleaf22
-+ title: Powerbank.png
-+ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ title: Powerbank
++ image_url: Powerbank.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 + license_text: Public domain
 + categories:
 +   - video games
 + tags:
-+   - .inc
++   - Xiaomi.inc
 + ---
 
 Fifth image:
 -
 + ---
 + author: fireleaf22
-+ title: EPSXe.png
++ title: Playstation-4-VR-Headset
 + image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
@@ -87,5 +87,5 @@ Fifth image:
 + categories:
 +   - video games
 + tags:
-+   - .inc
++   - Sony.inc
 + ---
