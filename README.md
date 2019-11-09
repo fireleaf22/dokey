@@ -6,10 +6,12 @@
 -
 Παραδοτεο 2
 -
+link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo2_recording
 link to asciinema video: https://asciinema.org/a/280177
 
 Παραδοτεο 3
 -
+link to original commit: https://github.com/fireleaf22/dokey/blob/2018079/paradoteo3_recording
 link to asciinema video: https://asciinema.org/a/280180
 
 
