@@ -32,13 +32,60 @@ first image:
 
 Second image:
 -
++ ---
++ author: fireleaf22
++ title: poke-walker.png
++ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
 Third image:
 -
++ ---
++ author: fireleaf22
++ title: poke-walker.png
++ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
 Forth image:
 -
++ ---
++ author: fireleaf22
++ title: poke-walker.png
++ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
 Fifth image:
 -
-
++ ---
++ author: fireleaf22
++ title: poke-walker.png
++ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
