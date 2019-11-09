@@ -19,6 +19,7 @@ link to asciinema video: https://asciinema.org/a/280180
 -
 first image:
 -
+@@ -0,0 +1,13 @@
 + ---
 + author: fireleaf22
 + title: poke-walker
@@ -34,6 +35,7 @@ first image:
 
 Second image:
 -
+@@ -0,0 +1,13 @@
 + ---
 + author: fireleaf22
 + title: Nintendo64
@@ -49,6 +51,7 @@ Second image:
 
 Third image:
 -
+@@ -0,0 +1,13 @@
 + ---
 + author: fireleaf22
 + title: Powerglove
@@ -64,6 +67,7 @@ Third image:
 
 Forth image:
 -
+@@ -0,0 +1,13 @@
 + ---
 + author: fireleaf22
 + title: Powerbank
@@ -79,6 +83,7 @@ Forth image:
 
 Fifth image:
 -
+@@ -0,0 +1,13 @@
 + ---
 + author: fireleaf22
 + title: Playstation-4-VR-Headset
