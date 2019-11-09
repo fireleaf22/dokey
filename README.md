@@ -34,10 +34,10 @@ Second image:
 -
 + ---
 + author: fireleaf22
-+ title: poke-walker.png
++ title: Nintendo64.png
 + image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
 + caption: 'caption'
-+ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Nintendo-64-GB-Transfer-Pak.jpg'
 + license_text: Public domain
 + categories:
 +   - video games
@@ -49,7 +49,7 @@ Third image:
 -
 + ---
 + author: fireleaf22
-+ title: poke-walker.png
++ title: Powerglove.png
 + image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
@@ -64,7 +64,7 @@ Forth image:
 -
 + ---
 + author: fireleaf22
-+ title: poke-walker.png
++ title: Powerbank.png
 + image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
@@ -72,14 +72,14 @@ Forth image:
 + categories:
 +   - video games
 + tags:
-+   - Nintendo.inc
++   - .inc
 + ---
 
 Fifth image:
 -
 + ---
 + author: fireleaf22
-+ title: poke-walker.png
++ title: EPSXe.png
 + image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
 + caption: 'caption'
 + license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
@@ -87,5 +87,5 @@ Fifth image:
 + categories:
 +   - video games
 + tags:
-+   - Nintendo.inc
++   - .inc
 + ---
